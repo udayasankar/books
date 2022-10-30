@@ -1,3 +1,16 @@
+********************************************************************************************************************************************************************
+https://github.com/sindresorhus/awesome
+
+https://github.com/ripienaar/free-for-dev
+
+http://www.effectiveengineer.com/
+
+https://github.com/EbookFoundation/free-programming-books
+
+https://github.com/MunGell/awesome-for-beginners
+
+
+********************************************************************************************************************************************************************
 # books
 1) The Psychology of Money
 2) Thinking Fast & Slow
